@@ -27,5 +27,9 @@ REPONSES MONTÉE EN COMPETENCE.
   le tuning sert à booster l'applicatin pour une meilleur performance.
   la rapidité.
   
+  Ou se trouve les logs de l'application ?
+  /var/log/bacula/
+  fichier : /etc/log/bacula/bacula.log
+  
+  
  
-
