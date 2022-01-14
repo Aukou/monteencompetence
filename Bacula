@@ -20,7 +20,7 @@ REPONSES MONTÉE EN COMPETENCE.
   + Qu'est-ce qu'il est possible de paramétrer dans l'application ?
   /etc/bacula/
   /etc/bacula/bacula-dir.conf 
-  on peut , paramettrer le Storage Daemon (storage) , file daemon (client ) , schedule (pour les backups ) etc...
+  on peut , paramettrer le Storage Daemon (storage) ,catalog file daemon (client ) , schedule (pour les backups ) etc...
  
  Qu'elles sont les paramètres importants pour réaliser le Tuning de l'application ?
   client , stocakge , restauratin , backup.
