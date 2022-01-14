@@ -57,8 +57,14 @@ REPONSES MONTÉE EN COMPETENCE.
     non , pas de HAproxy sur bacula , le cluster n'est pas util.
 
   Scalabilité : Comment fait-on pour assurer la montée en charge ?
+    Est-ce qu'il est possible de répartir sur plusieurs serveurs 
     
-
+    oui , mais c'est pa important de cree plusieurs serveurs bacula .
+    mieux , faudrait avoir plusieurs SD( storage ).
+    
+    
+    
+  
 
     
 
