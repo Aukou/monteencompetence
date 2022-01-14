@@ -28,15 +28,27 @@ REPONSES MONTÉE EN COMPETENCE.
   la rapidité.
   
   Ou se trouve les logs de l'application ?
-  /var/log/bacula/
-  fichier : /etc/log/bacula/bacula.log
+   /var/log/bacula/
+   fichier : /etc/log/bacula/bacula.log
   
   Où se trouvent les données de l'application ?
-  /var/lib/mysql/bacula 
-  ces données servent la bonne gestion de l'application.
+   /var/lib/mysql/bacula 
+   ces données servent la bonne gestion de l'application.
   
    Existe-t-il des outils d'administration permettant de gérer l'application
-   bconsole 
+    bconsole 
+   
+   Comment fonctionnent-ils ?
+    bconsole permet d'avoir d'avoir une vue sur le directeur , de gérer le service ( backup, restore , etc...)
+   
+   Sur quels ports écoutent l'application ?
+    9101 port bacula director 
+    9102 port bacula file daemon
+    9103 port bacula storage 
+    
+   Y a-t-il des sessions utilisateurs ?
+    
+
   
   
   
