@@ -31,6 +31,10 @@ REPONSES MONTÉE EN COMPETENCE.
   /var/log/bacula/
   fichier : /etc/log/bacula/bacula.log
   
+  Où se trouvent les données de l'application ?
+  /var/lib/mysql/bacula 
+  ces données servent la bonne gestion de l'application.
+  
   
   
  
