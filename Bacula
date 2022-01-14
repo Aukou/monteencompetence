@@ -47,7 +47,14 @@ REPONSES MONTÉE EN COMPETENCE.
     9103 port bacula storage 
     
    Y a-t-il des sessions utilisateurs ?
-   non , juste l'utilisateur root ayant tout les droits.
+    non , juste l'utilisateur root ayant tout les droits.
+   
+   Est-ce qu'elles doivent être partagées et Comment fonctionnent-ils entre plusieurs nœuds ?
+    no , ca sert a rien d'avoir un cluster de bacula.
+   
+   Haute disponibilité (Tolérance aux pannes)
+
+
     
 
   
