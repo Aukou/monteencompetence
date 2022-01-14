@@ -71,6 +71,11 @@ REPONSES MONTÉE EN COMPETENCE.
    Comment on le sauvegarde (sauvegarde en mode fichier, via de scripts de dumps) ?
    run full , incremential , differentiel : fichier .
    pour les bases de données on peut creer des scripts a fin de recuperer la base de donnée dans un format fichier.
+   
+   logs :
+   Ou se trouvent les logs importants ?
+   /var/log
+   
 
  
  
