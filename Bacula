@@ -52,7 +52,12 @@ REPONSES MONTÉE EN COMPETENCE.
    Est-ce qu'elles doivent être partagées et Comment fonctionnent-ils entre plusieurs nœuds ?
     no , ca sert a rien d'avoir un cluster de bacula.
    
-   Haute disponibilité (Tolérance aux pannes)
+  Haute disponibilité (Tolérance aux pannes)
+  
+    non , pas de HAproxy sur bacula , le cluster n'est pas util.
+
+  Scalabilité : Comment fait-on pour assurer la montée en charge ?
+    
 
 
     
