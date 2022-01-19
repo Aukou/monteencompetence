@@ -24,3 +24,5 @@ REPONSES MONTÉE EN COMPETENCE.
      MaxClients          
      MaxRequestsPerChild 
     </ifModule>
+    le tuning sert à booster l'applicatin pour une meilleur performance. la rapidité
+    
