@@ -55,5 +55,15 @@ REPONSES MONTÉE EN COMPETENCE.
     Quelles sont les conséquences sur le fonctionnement de l'application en cas de perte d'une noeud ?
      en cas de perte d'un noeud , l'application continue de fonctionner sur les autres noeuds car, le load balancing (HA ou autre ), permettra de gerer les requests sur les serveurs actifs. 
     
+    L'application est-elle toujours disponible ?
+     En effect , l'application reste toujours disponible sur les autres noeuds du cluster.
+     
+    Y a-t-il des pertes de connexions ?
+     Non.
+     
+     
+
+
+    
    
      
