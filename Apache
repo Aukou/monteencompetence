@@ -43,6 +43,9 @@ REPONSES MONTÉE EN COMPETENCE.
      
     Est-ce qu'elles doivent être partagées et Comment fonctionnent-ils entre plusieurs nœuds ? 
      possibilité de partager le serveur apache . on peut decider d'avoir les données d'un serveur apache sur deux autres serveurs apaches . par le biair de la module nfs , on peut copier toutes la configuration du premier aapche serveur les deux seconds.
+     
+    Haute disponibilité (Tolérance aux pannes)
+    
     
    
      
