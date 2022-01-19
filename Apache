@@ -26,3 +26,10 @@ REPONSES MONTÉE EN COMPETENCE.
     </ifModule>
     le tuning sert à booster l'applicatin pour une meilleur performance. la rapidité
     
+    Ou se trouve les logs de l'application ?
+     /var/log/httpd
+     
+    Où se trouvent les données de l'application ?
+     /var/www
+     ces données servent la bonne gestion de l'application.
+     
