@@ -6,5 +6,9 @@ REPONSES MONTÉE EN COMPETENCE.
   systemctl restart : redemarage .
   
   Ou se trouve les fichiers/répertoires de configuration ? 
-  /etc/httpd
-  /etc/httpd/conf/httpd.conf
+   /etc/httpd
+   /etc/httpd/conf/httpd.conf
+   
+  Qu'est-ce qu'il est possible de paramétrer dans l'application ? 
+   On peut paramettrer le gestion de module de traitement d'apache avec la module mpm_prefork_module.
+   
