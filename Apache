@@ -1,1 +1,10 @@
 
+REPONSES MONTÉE EN COMPETENCE.
+
+ Quels sont les scripts permettant de gérer l'arrêt/redémarrage de l'application ? 
+  systemctl stop : l'arret .
+  systemctl restart : redemarage .
+  
+  Ou se trouve les fichiers/répertoires de configuration ? 
+  /etc/httpd
+  /etc/httpd/conf/httpd.conf
