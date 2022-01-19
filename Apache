@@ -71,7 +71,15 @@ REPONSES MONTÉE EN COMPETENCE.
      Via un partage NFS monté sur chacun des nœuds ?
      
      Supervision 
-
+     
+     logs 
+      Ou se trouvent les logs importants ?
+      /var/log/httpd 
+      
+   Comment est gérée la rotation des logs ?
+    logrotate et sa configuration .
+    on peut egalement gerer la rotation des log avec une tache cron  En créant une entrée dans /etc/cron.daily/logrotate , la rotation des logs sera alors effectuée tous les jours.
+   
     
    
      
