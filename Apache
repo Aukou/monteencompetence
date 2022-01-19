@@ -50,7 +50,10 @@ REPONSES MONTÉE EN COMPETENCE.
      
      l'application dispose-t-elle d'un mode cluster ou tous les noeuds doivent communiquer ensemble ?
       oui , possibilité fe faire un cluster avec plusieus noeuds .
-    
+      
+     
+    Quelles sont les conséquences sur le fonctionnement de l'application en cas de perte d'une noeud ?
+     en cas de perte d'un noeud , l'application continue de fonctionner sur les autres noeuds car, le load balancing (HA ou autre ), permettra de gerer les requests sur les serveurs actifs. 
     
    
      
