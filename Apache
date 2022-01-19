@@ -38,7 +38,11 @@ REPONSES MONTÉE EN COMPETENCE.
      Sur quels ports écoutent l'application ?
       sur le port 80.
      
-     Y a-t-il des sessions utilisateurs ?
+    Y a-t-il des sessions utilisateurs ?
      Oui , possibilité de creer des utilisateurs et groupe d'utlisateur ayant droit sur le serveur .
+     
+    Est-ce qu'elles doivent être partagées et Comment fonctionnent-ils entre plusieurs nœuds ? 
+     possibilité de partager le serveur apache . on peut decider d'avoir les données d'un serveur apache sur deux autres serveurs apaches . par le biair de la module nfs , on peut copier toutes la configuration du premier aapche serveur les deux seconds.
+    
    
      
