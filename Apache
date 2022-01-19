@@ -12,3 +12,15 @@ REPONSES MONTÉE EN COMPETENCE.
   Qu'est-ce qu'il est possible de paramétrer dans l'application ? 
    On peut paramettrer le gestion de module de traitement d'apache avec la module mpm_prefork_module.
    
+   Qu'elles sont les paramètres importants pour réaliser le Tuning de l'application ?
+    MaxKeepAliveRequests 
+    keepAliveTimeout
+    KeepAlive
+    
+    <IfModule prefork.c>
+     StartServers        
+     MinSpareServers     
+     MaxSpareServers     
+     MaxClients          
+     MaxRequestsPerChild 
+    </ifModule>
