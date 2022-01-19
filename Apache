@@ -61,8 +61,16 @@ REPONSES MONTÉE EN COMPETENCE.
     Y a-t-il des pertes de connexions ?
      Non.
      
+    Scalabilité : Comment fait-on pour assurer la montée en charge ?
      
-
+     Est-ce qu'il est possible de répartir sur plusieurs serveurs les différents composants de l'application ?
+      Avec Apache non , cest pas wpossible vu que tout les composants sont installés sous un seul pacquet.
+      
+    Réplication/partage des données
+     Quels sont les données à répliquer/partager entre les nœuds ?
+     Via un partage NFS monté sur chacun des nœuds ?
+     
+     Supervision 
 
     
    
