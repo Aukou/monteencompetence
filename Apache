@@ -35,5 +35,10 @@ REPONSES MONTÉE EN COMPETENCE.
      
     Existe-t-il des outils d'administration permettant de gérer l'application ?
     
+     Sur quels ports écoutent l'application ?
+      sur le port 80.
+     
+     Y a-t-il des sessions utilisateurs ?
+     Oui , possibilité de creer des utilisateurs et groupe d'utlisateur ayant droit sur le serveur .
     
      
