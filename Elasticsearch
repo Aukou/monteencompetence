@@ -14,6 +14,12 @@ y compris les données textuelles, numériques, géospatiales, structurées et n
   /etc/elasticsearch/jvm.options
   
   Qu'est-ce qu'il est possible de paramétrer dans l'application ?
-  On peut paramettrer : ses API REST simples,sa nature distribuée, sa vitesse et sa scalabilité.
+    On peut paramettrer : ses API REST simples,sa nature distribuée, sa vitesse et sa scalabilité.
+    
+  Qu'elles sont les paramètres importants pour réaliser le Tuning de l'application ?
+   Dans le cas d'un cluster, a plusieurs nodes , il faut pensser a la replication de donnée notement avec l'outil CCR inter-data center.
+   
+   le tuning sert à booster l'applicatin pour une meilleur performance. la rapidité, ET la disponibilité.
+  
   
   
