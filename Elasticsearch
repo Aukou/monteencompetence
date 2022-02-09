@@ -20,6 +20,8 @@ y compris les données textuelles, numériques, géospatiales, structurées et n
    Dans le cas d'un cluster, a plusieurs nodes , il faut pensser a la replication de donnée notement avec l'outil CCR inter-data center.
    
    le tuning sert à booster l'applicatin pour une meilleur performance. la rapidité, ET la disponibilité.
+   
+  Ou se trouve les logs de l'application ?
   
   
   
