@@ -22,6 +22,8 @@ y compris les données textuelles, numériques, géospatiales, structurées et n
    le tuning sert à booster l'applicatin pour une meilleur performance. la rapidité, ET la disponibilité.
    
   Ou se trouve les logs de l'application ?
-  
+   /var/log/elasticsearch 
+   
+  Où se trouvent les données de l'application ?
   
   
