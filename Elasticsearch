@@ -33,6 +33,15 @@ y compris les données textuelles, numériques, géospatiales, structurées et n
    
   Comment fonctionnent-ils ?
    ils permettent d'avoir une visibilité sur les index , les logs ingérés afirn de faire une rechercher ( par categorie , par nom etc....).
+    
+  Sur quels ports écoutent l'application ?
+  9300 : port elasticsearch
+  9200 : port http
+  5601 :port kibana
+  
+  
+   
+  
    
    
   
