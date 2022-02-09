@@ -25,5 +25,7 @@ y compris les données textuelles, numériques, géospatiales, structurées et n
    /var/log/elasticsearch 
    
   Où se trouvent les données de l'application ?
+    /var/lib/elasticsearch 
+    ces données servent la bonne gestion de l'application.
   
   
