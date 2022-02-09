@@ -28,4 +28,26 @@ y compris les données textuelles, numériques, géospatiales, structurées et n
     /var/lib/elasticsearch 
     ces données servent la bonne gestion de l'application.
   
+  Existe-t-il des outils d'administration permettant de gérer l'application
+   Kibana, Cerebro 
+   
+  Comment fonctionnent-ils ?
+   ils permettent d'avoir une visibilité sur les index , les logs ingérés afirn de faire une rechercher ( par categorie , par nom etc....).
+   
+   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
