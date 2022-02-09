@@ -53,7 +53,12 @@ y compris les données textuelles, numériques, géospatiales, structurées et n
   Haute disponibilité (Tolérance aux pannes)
    replication de index sur differents nodes du cluster.
    
-  
+   
+  Scalabilité : Comment fait-on pour assurer la montée en charge ?
+   Est-ce qu'il est possible de répartir sur plusieurs serveurs  
+   oui , un cluster plusieurs nodes , selon l'archictecture definit en faisant un replication de donnée .
+   
+   Sauvegarde :
    
    
   
