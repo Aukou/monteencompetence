@@ -1,1 +1,19 @@
+REPONSES MONTÉE EN COMPETENCE.
 
+Elasticsearch est un moteur de recherche et d'analyse distribué gratuit et ouvert pour tout type de données,
+y compris les données textuelles, numériques, géospatiales, structurées et non structurées. 
+
+
+ Quels sont les scripts permettant de gérer l'arrêt/redémarrage de l'application ? 
+  systemctl stop : l'arret .
+  systemctl restart : redemarage .
+  
+  
+ Ou se trouve les fichiers/répertoires de configuration ? 
+  /etc/elasticsearch/elasticsearch.yml
+  /etc/elasticsearch/jvm.options
+  
+  Qu'est-ce qu'il est possible de paramétrer dans l'application ?
+  On peut paramettrer : ses API REST simples,sa nature distribuée, sa vitesse et sa scalabilité.
+  
+  
