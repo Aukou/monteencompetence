@@ -34,10 +34,22 @@ y compris les données textuelles, numériques, géospatiales, structurées et n
   Comment fonctionnent-ils ?
    ils permettent d'avoir une visibilité sur les index , les logs ingérés afirn de faire une rechercher ( par categorie , par nom etc....).
     
-  Sur quels ports écoutent l'application ?
-  9300 : port elasticsearch
-  9200 : port http
-  5601 :port kibana
+   Sur quels ports écoutent l'application ?
+   9300 : port elasticsearch
+   9200 : port http
+   5601 :port kibana
+  
+  Y a-t-il des sessions utilisateurs ?
+   OUI , on peu en creer.
+   
+  Est-ce qu'elles doivent être partagées et Comment fonctionnent-ils entre plusieurs nœuds ?
+   on peut decider d'avoir differents types d'architectures CCR inter-data center qui sont :
+    - Data centers de production et de reprise d'activité après sinistre 
+    - Plus de deux data centers 
+    - Réplication enchaînée 
+    - Réplication bidirectionnelle
+    
+    
   
   
    
