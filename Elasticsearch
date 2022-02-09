@@ -50,8 +50,8 @@ y compris les données textuelles, numériques, géospatiales, structurées et n
     - Réplication bidirectionnelle
     
     
-  
-  
+  Haute disponibilité (Tolérance aux pannes)
+   replication de index sur differents nodes du cluster.
    
   
    
