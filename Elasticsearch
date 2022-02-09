@@ -59,6 +59,19 @@ y compris les données textuelles, numériques, géospatiales, structurées et n
    oui , un cluster plusieurs nodes , selon l'archictecture definit en faisant un replication de donnée .
    
    Sauvegarde :
+    Qu'est-ce qu'on sauvegarde ? Qu'est-ce qu'on exclue de la sauvegarde ?
+    la sauvegarde et la restauration d'un index dans elasticsearch se fait grace a la commande : elasticdump avec ses paramettre input et output et type.
+    
+   logs :
+    Ou se trouvent les logs importants ?
+   /var/log
+   
+  Comment est gérée la rotation des logs ?
+   logrotate et sa configuration .
+ 
+ on peut egalement gerer la rotation des log avec une tache cron  
+ En créant une entrée dans /etc/cron.daily/logrotate , la rotation des logs sera alors effectuée tous les jours.
+  
    
    
   
